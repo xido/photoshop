@@ -5,7 +5,8 @@
 
 ### 000-OT
 
-[수업시작전 OT]()
+1. [수업시작전 OT](https://drive.google.com/open?id=1MP6kGPaB9KdE6YImzTYG6c7VVTiA7q-n)
+2. [단축키 이미지]()
 
 ### STEP: 001-basic
 
